@@ -402,6 +402,12 @@
                  "id":193,
                  "name":"mt_den",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"dengon"
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":50,
@@ -514,6 +520,12 @@
                  "id":191,
                  "name":"mt_atsu",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"atsumaroom"
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":50,
