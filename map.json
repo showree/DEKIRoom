@@ -2030,7 +2030,7 @@
         {
          "draworder":"topdown",
          "id":181,
-         "name":"objectLayer",
+         "name":"objectgroup",
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
