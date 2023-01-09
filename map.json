@@ -714,7 +714,7 @@
                          "value":"sp3"
                         }],
                  "type":"tilelayer",
-                 "visible":true,
+                 "visible":false,
                  "width":50,
                  "x":0,
                  "y":0
@@ -776,7 +776,7 @@
                          "value":"lp1"
                         }],
                  "type":"tilelayer",
-                 "visible":true,
+                 "visible":false,
                  "width":50,
                  "x":0,
                  "y":0
@@ -838,7 +838,7 @@
                          "value":"lp2"
                         }],
                  "type":"tilelayer",
-                 "visible":true,
+                 "visible":false,
                  "width":50,
                  "x":0,
                  "y":0
@@ -900,7 +900,7 @@
                          "value":"lp3"
                         }],
                  "type":"tilelayer",
-                 "visible":true,
+                 "visible":false,
                  "width":50,
                  "x":0,
                  "y":0
@@ -1340,7 +1340,7 @@
          "name":"zone",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -1966,7 +1966,7 @@
          "name":"ani",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":50,
          "x":0,
          "y":0
@@ -2022,7 +2022,7 @@
          "name":"icons",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":50,
          "x":0,
          "y":0
@@ -2034,7 +2034,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }],
